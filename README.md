@@ -1,26 +1,36 @@
 # powerbi_project
-# 📊 Sales Performance Dashboard (Power BI)
+📊 Power BI Dashboard Project
 
-## 📌 Project Overview
-Built an interactive Power BI dashboard to visualize sales and business metrics using data manually extracted from a Word document. Demonstrates proficiency in converting unstructured data into powerful visual reports.
+Project Overview
 
-## 🛠 Tools & Concepts Used
-- Microsoft Power BI  
-- Word Document (Data Source)  
-- Table Relationships (Data Modeling)  
-- DAX Measures (e.g., Total Sales, Growth %, Quantity Sold)
+Built an interactive Power BI dashboard that transformed raw transactional data into business insights. This project involved creating data models, managing relationships, and designing visuals to present key business metrics clearly and effectively.
 
-## 💡 Key Features
-- Visual representation of Word-based business data  
-- Region-wise and month-wise performance comparison  
-- KPI cards with slicers (Region, Category)  
-- Time trend visualizations with line charts  
-- **Manual data cleaning + schema creation**
-- **Custom measures and relationships to connect data tables logically**
+Key Highlights
 
-## 🖼️ Screenshot
-*(Optional)*  
-![Dashboard View](Screenshot.png)
+🧩 Power BI Techniques Used
 
-## 📎 Outcome
-Showcased the ability to transform semi-structured Word data into a visually appealing and interactive dashboard. Enabled clear reporting and trend analysis for non-standard data inputs.
+Data Modeling: Defined relationships between multiple tables using keys
+
+DAX Measures: Created calculated fields like total sales, avg quantity, and % growth
+
+Visuals Used: Bar charts, line graphs, KPI cards, slicers, tables, and filters
+
+User Interaction: Added interactivity via drill-through and tooltips
+
+Visualized Metrics
+
+Sales by region and customer type
+
+Product performance and profitability
+
+Month-over-month sales comparison
+
+Customized visuals for category and brand-level insights
+
+Project Outcome
+
+Delivered a single-page executive dashboard
+
+Empowered stakeholders with interactive exploration
+
+Improved data-driven decision-making with real-time performance monitoring
