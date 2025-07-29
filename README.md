@@ -1,6 +1,5 @@
 # powerbi_project
 📊 Power BI Dashboard Project
-
 Project Overview
 
 Built an interactive Power BI dashboard that transformed raw transactional data into business insights. This project involved creating data models, managing relationships, and designing visuals to present key business metrics clearly and effectively.
