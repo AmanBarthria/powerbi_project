@@ -25,13 +25,39 @@ The dashboard provides insights into:
 
 ### Project Documentation
 
-Contains all 8 business questions, dashboard screenshots and insights.
+Contains all 8 business questions, dashboard screenshots, analysis and business insights.
 
 ### Power BI Dashboard File
 
 Download Full Project:
 
-[https://drive.google.com/file/d/1YOS_hHeJp63apQqoYhug3ZXOfAm_Zc6B/view?usp=sharing]
+https://drive.google.com/file/d/1YOS_hHeJp63apQqoYhug3ZXOfAm_Zc6B/view?usp=sharing
+
+## Dashboard Screenshots
+
+### Task 1
+![Task 1](Task1.png)
+
+### Task 2
+![Task 2](Task2.png)
+
+### Task 3
+![Task 3](Task3.png)
+
+### Task 4
+![Task 4](Task4.png)
+
+### Task 5
+![Task 5](Task5.png)
+
+### Task 6
+![Task 6](Task6.png)
+
+### Task 7
+![Task 7](Task7.png)
+
+### Task 8
+![Task 8](Task8.png)
 
 ## Skills Demonstrated
 
@@ -45,7 +71,7 @@ Download Full Project:
 
 ## Author
 
-Aman Barthria
+### Aman Barthria
 
 LinkedIn:
 https://www.linkedin.com/in/aman-barthria-8020a71a0/
